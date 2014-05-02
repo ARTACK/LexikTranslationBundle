@@ -1,5 +1,5 @@
 {
-    "name": "lexik/translation-bundle",
+    "name": "artack/translation-bundle",
     "type": "symfony-bundle",
     "description": "This bundle allow to import translation files content into the database and provide a GUI to edit translations.",
     "keywords": ["Symfony2", "bundle", "translation", "i18n"],
@@ -15,6 +15,10 @@
         {
             "name": "Dev Lexik",
             "email": "dev@lexik.fr"
+        },
+        {
+            "name": "Patrick Landolt",
+            "email": "patrick.landolt@artack.ch"
         }
     ],
     "require": {
